@@ -7,7 +7,21 @@
     "role": "Chief whip",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "ANDERSON",
+    "headOfDelegation": false,
+    "coordinators": [
+      {
+        "committee": "EUDS",
+        "source": "https://www.europarl.europa.eu/doceo/document/EUDS-PV-2026-03-17-1_EN.pdf",
+        "sourceDate": "2026-02-26",
+        "checkedAt": "2026-11-06"
+      }
+    ],
+    "isBureau": true,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256951",
@@ -17,7 +31,21 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "ARNDT",
+    "headOfDelegation": false,
+    "coordinators": [
+      {
+        "committee": "ENVI",
+        "source": "https://www.europarl.europa.eu/cmsdata/302100/2026%2001%2013%20coordinators%20results.pdf",
+        "sourceDate": "2026-01-13",
+        "checkedAt": "2026-11-06"
+      }
+    ],
+    "isBureau": false,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256929",
@@ -27,7 +55,16 @@
     "role": "Coprésident",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "AUST",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://esn-group.eu/esn-delegation/alternative-for-germany/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "256948",
@@ -37,7 +74,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "BAUSEMER",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "257457",
@@ -47,7 +91,23 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "BORVENDÉG",
+    "headOfDelegation": true,
+    "coordinators": [
+      {
+        "committee": "CULT",
+        "source": "https://www.europarl.europa.eu/cmsdata/302801/CULT%20Coordinators_10th%20term_updated%20February%202026.pdf",
+        "sourceDate": "2026-02-12",
+        "checkedAt": "2026-11-06"
+      }
+    ],
+    "isBureau": true,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://esn-group.eu/esn-delegation/mi-hazank-mozgalom/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "256945",
@@ -57,7 +117,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "BOẞDORF",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "128483",
@@ -67,7 +134,21 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "BUCHHEIT",
+    "headOfDelegation": false,
+    "coordinators": [
+      {
+        "committee": "INTA",
+        "source": "https://esn-group.eu/members/markus-buchheit/",
+        "sourceDate": "",
+        "checkedAt": "2026-11-06"
+      }
+    ],
+    "isBureau": false,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256928",
@@ -77,7 +158,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "BYSTRON",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "197556",
@@ -87,7 +175,16 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "DAVID",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://esn-group.eu/esn-delegation/freedom-and-direct-democracy/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "256949",
@@ -97,7 +194,21 @@
     "role": "Trésorier",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "DROESE",
+    "headOfDelegation": false,
+    "coordinators": [
+      {
+        "committee": "FISC",
+        "source": "https://www.europarl.europa.eu/cmsdata/302720/Summary%20of%20Coordinators%27%20recommendations%20-%2027%20January%202027.pdf",
+        "sourceDate": "2026-01-27",
+        "checkedAt": "2026-11-06"
+      }
+    ],
+    "isBureau": true,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "190574",
@@ -107,7 +218,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "FROELICH",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256808",
@@ -117,7 +235,16 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "GRAŽULIS",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://esn-group.eu/esn-delegation/tautos-ir-teisingumo-sajunga/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "256942",
@@ -127,7 +254,14 @@
     "role": "Whip adjoint",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "JONGEN",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256941",
@@ -137,7 +271,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "JUNGBLUTH",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256957",
@@ -147,7 +288,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "KHAN",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256924",
@@ -157,7 +305,16 @@
     "role": "Vice-présidente",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "KNAFO",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://esn-group.eu/esn-delegation/reconquete/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "257262",
@@ -167,7 +324,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "LAYKOVA",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "249982",
@@ -177,7 +341,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "MAZUREK",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256944",
@@ -187,7 +358,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "NEUHOFF",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "267485",
@@ -197,7 +375,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "SCHNURRBUSCH",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256959",
@@ -207,7 +392,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "SELL",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "257255",
@@ -217,7 +409,16 @@
     "role": "Vice-président",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "STOYANOV",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://esn-group.eu/esn-delegation/revival-%D0%B2%D1%8A%D0%B7%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B5/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "257070",
@@ -227,7 +428,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "SYPNIEWSKI",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "257062",
@@ -237,7 +445,16 @@
     "role": "Coprésident",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "TYSZKA",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://esn-group.eu/esn-delegation/konfederacja/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "197763",
@@ -247,7 +464,16 @@
     "role": "Vice-président",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "UHRÍK",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://esn-group.eu/esn-delegation/hnutie-republika/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "257125",
@@ -257,7 +483,16 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "VANNACCI",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://esn-group.eu/esn-delegation/futuro-nazionale/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "257260",
@@ -267,6 +502,13 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "VOLGIN",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://esn-group.eu/our-members/",
+    "roleCheckedAt": "2026-11-06"
   }
 ]
