@@ -4,7 +4,7 @@
     "name": "Christine ANDERSON",
     "country": "Germany",
     "party": "Alternative für Deutschland",
-    "role": "Chief whip",
+    "role": "Coordinateur des votes",
     "strasbourg": "",
     "brussels": "",
     "coordinator": "",
@@ -21,7 +21,10 @@
     ],
     "isBureau": true,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/197475?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256951",
@@ -45,7 +48,10 @@
     ],
     "isBureau": false,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256951?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256929",
@@ -64,7 +70,10 @@
     "roleSource": "https://esn-group.eu/our-members/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://esn-group.eu/esn-delegation/alternative-for-germany/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256929?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256948",
@@ -81,7 +90,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256948?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "257457",
@@ -107,7 +119,10 @@
     "roleSource": "https://esn-group.eu/our-members/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://esn-group.eu/esn-delegation/mi-hazank-mozgalom/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/257457?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256945",
@@ -124,7 +139,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256945?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "128483",
@@ -148,7 +166,10 @@
     ],
     "isBureau": false,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/128483?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256928",
@@ -165,7 +186,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256928?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "197556",
@@ -184,7 +208,10 @@
     "roleSource": "https://esn-group.eu/our-members/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://esn-group.eu/esn-delegation/freedom-and-direct-democracy/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/197556?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256949",
@@ -208,7 +235,10 @@
     ],
     "isBureau": true,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256949?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "190574",
@@ -225,7 +255,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/190574?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256808",
@@ -244,14 +277,17 @@
     "roleSource": "https://esn-group.eu/our-members/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://esn-group.eu/esn-delegation/tautos-ir-teisingumo-sajunga/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256808?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256942",
     "name": "Marc JONGEN",
     "country": "Germany",
     "party": "Alternative für Deutschland",
-    "role": "Whip adjoint",
+    "role": "Coordinateur adjoint des votes",
     "strasbourg": "",
     "brussels": "",
     "coordinator": "",
@@ -261,7 +297,10 @@
     "coordinators": [],
     "isBureau": true,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256942?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256941",
@@ -278,7 +317,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256941?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256957",
@@ -295,7 +337,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256957?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256924",
@@ -314,7 +359,10 @@
     "roleSource": "https://esn-group.eu/our-members/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://esn-group.eu/esn-delegation/reconquete/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256924?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "257262",
@@ -331,7 +379,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/257262?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "249982",
@@ -348,7 +399,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/249982?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256944",
@@ -365,7 +419,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256944?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "267485",
@@ -382,7 +439,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/267485?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256959",
@@ -399,7 +459,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256959?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "257255",
@@ -418,7 +481,10 @@
     "roleSource": "https://esn-group.eu/our-members/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://esn-group.eu/esn-delegation/revival-%D0%B2%D1%8A%D0%B7%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B5/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/257255?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "257070",
@@ -435,7 +501,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/257070?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "257062",
@@ -454,7 +523,10 @@
     "roleSource": "https://esn-group.eu/our-members/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://esn-group.eu/esn-delegation/konfederacja/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/257062?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "197763",
@@ -473,7 +545,10 @@
     "roleSource": "https://esn-group.eu/our-members/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://esn-group.eu/esn-delegation/hnutie-republika/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/197763?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "257125",
@@ -492,7 +567,10 @@
     "roleSource": "https://esn-group.eu/our-members/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://esn-group.eu/esn-delegation/futuro-nazionale/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/257125?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "257260",
@@ -509,6 +587,9 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://esn-group.eu/our-members/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/257260?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   }
 ]
